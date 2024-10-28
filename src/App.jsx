@@ -18,7 +18,8 @@ const mockEvents = [
     location: "Central Park, New York",
     description:
       "Join us for an evening of live music featuring local and international artists. Food trucks and refreshments will be available.",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo5Z2g0Zzg4NXBxMzJ0M2NyOGxhcjE5czUwaHk2c2FiMzE4dzdzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fiqd5EFyyOYBjJpESq/giphy.webp",
     category: "Music",
     thumbnailColor: "bg-purple-500",
   },
@@ -30,7 +31,8 @@ const mockEvents = [
     location: "Convention Center, San Francisco",
     description:
       "A day full of inspiring talks from industry leaders, networking opportunities, and hands-on workshops.",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1bnJydzF5bWJhdzdhNjA1a2g0cDkyaG94MzQxeG1waXpreTQxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhyM9QR96FBKLAcZ7f/giphy.webp",
     category: "Technology",
     thumbnailColor: "bg-blue-500",
   },
@@ -42,7 +44,8 @@ const mockEvents = [
     location: "Downtown Square, Chicago",
     description:
       "Sample dishes from top local restaurants and enjoy wine tastings from regional vineyards.",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ1d2ExZmp6bDNxYXF5aDI4Y3g5bnM5bG1xazZ6ZHN2bjZqNDlzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Js8ce9KNTIJXb3wqFF/giphy.webp",
     category: "Food",
     thumbnailColor: "bg-red-500",
   },
@@ -54,7 +57,8 @@ const mockEvents = [
     location: "Modern Art Gallery, Los Angeles",
     description:
       "Opening night of our new contemporary art exhibition featuring works from emerging artists.",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRzOHpweng0M2szeGdkbHY3amhwc3JxOWNqY2Jpa3I1cXJseTU5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wMxRpVgMqMCjK/giphy.webp",
     category: "Art",
     thumbnailColor: "bg-indigo-500",
   },
@@ -66,7 +70,8 @@ const mockEvents = [
     location: "City Center, Boston",
     description:
       "Annual marathon event with both professional and amateur categories. Register now to participate!",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJsNzlqeDB1MWZveTZ2NXczc2VzNGdhc3pjemNvbWpseWloaWxldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1k1Z46tjQWIAlcXYt6/giphy.webp",
     category: "Sports",
     thumbnailColor: "bg-green-500",
   },
@@ -78,7 +83,8 @@ const mockEvents = [
     location: "Laugh Factory, Chicago",
     description:
       "A night of non-stop laughter with top comedians from around the country.",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpud2Q4a3phazdseGJ2bmdwYzczd2V5MjE5ZHZqZHdzeXN6N28xaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gv4dveWcbn11UjVOm7/giphy.webp",
     category: "Entertainment",
     thumbnailColor: "bg-yellow-500",
   },
